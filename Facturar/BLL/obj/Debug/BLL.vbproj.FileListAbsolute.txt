@@ -1,0 +1,16 @@
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\bin\Debug\BLL.dll
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\bin\Debug\BLL.pdb
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\bin\Debug\BLL.xml
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\bin\Debug\DAL.dll
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\bin\Debug\LayerEntity.dll
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\bin\Debug\DAL.pdb
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\bin\Debug\DAL.xml
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\bin\Debug\LayerEntity.pdb
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\bin\Debug\LayerEntity.xml
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\obj\Debug\BLL.Resources.resources
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\obj\Debug\BLL.vbproj.CopyComplete
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\obj\Debug\BLL.dll
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\obj\Debug\BLL.xml
+D:\repositorio\Usuario\VB\factura\Facturar\BLL\obj\Debug\BLL.pdb

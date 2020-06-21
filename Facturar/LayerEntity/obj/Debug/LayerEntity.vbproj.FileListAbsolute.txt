@@ -1,0 +1,9 @@
+D:\repositorio\Usuario\VB\factura\Facturar\LayerEntity\bin\Debug\LayerEntity.dll
+D:\repositorio\Usuario\VB\factura\Facturar\LayerEntity\bin\Debug\LayerEntity.pdb
+D:\repositorio\Usuario\VB\factura\Facturar\LayerEntity\bin\Debug\LayerEntity.xml
+D:\repositorio\Usuario\VB\factura\Facturar\LayerEntity\obj\Debug\LayerEntity.vbprojAssemblyReference.cache
+D:\repositorio\Usuario\VB\factura\Facturar\LayerEntity\obj\Debug\LayerEntity.Resources.resources
+D:\repositorio\Usuario\VB\factura\Facturar\LayerEntity\obj\Debug\LayerEntity.vbproj.GenerateResource.cache
+D:\repositorio\Usuario\VB\factura\Facturar\LayerEntity\obj\Debug\LayerEntity.dll
+D:\repositorio\Usuario\VB\factura\Facturar\LayerEntity\obj\Debug\LayerEntity.xml
+D:\repositorio\Usuario\VB\factura\Facturar\LayerEntity\obj\Debug\LayerEntity.pdb

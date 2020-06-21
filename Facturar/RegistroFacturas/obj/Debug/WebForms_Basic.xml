@@ -1,0 +1,605 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RegistroFacturas
+</name>
+</assembly>
+<members>
+<member name="T:RegistroFacturas.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:RegistroFacturas.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:RegistroFacturas.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:RegistroFacturas.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:RegistroFacturas.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:RegistroFacturas.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="F:RegistroFacturas.AnularFacturas._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.AnularFacturas._Titulo">
+<summary>
+Titulo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.AnularFacturas._NFactura">
+<summary>
+NFactura control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.AnularFacturas._TBNFactura">
+<summary>
+TBNFactura control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.AnularFacturas._LblAnularFactura">
+<summary>
+LblAnularFactura control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.AnularFacturas._Anular">
+<summary>
+Anular control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.AnularFacturas._Retornar">
+<summary>
+Retornar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.BuscarFacturas._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.BuscarFacturas._Titulo">
+<summary>
+Titulo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.BuscarFacturas._DlEstado">
+<summary>
+DlEstado control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.BuscarFacturas._Buscar">
+<summary>
+Buscar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.BuscarFacturas._Retornar">
+<summary>
+Retornar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.BuscarFacturas._Griddatos">
+<summary>
+Griddatos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="T:RegistroFacturas.DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSet.DetalleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSet.FacturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSet.ProductoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSet.DetalleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSet.FacturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSet.ProductoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSet.DetalleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSet.FacturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSet.ProductoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSetTableAdapters.DetalleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSetTableAdapters.FacturaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSetTableAdapters.ProductoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:RegistroFacturas.DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(RegistroFacturas.DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:RegistroFacturas.DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(RegistroFacturas.DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:RegistroFacturas.DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(RegistroFacturas.DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:RegistroFacturas.DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:RegistroFacturas.DataSetTableAdapters.TableAdapterManager.UpdateAll(RegistroFacturas.DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:RegistroFacturas.DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="F:RegistroFacturas._Default._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.EliminarFacturas._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.EliminarFacturas._Titulo">
+<summary>
+Titulo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.EliminarFacturas._NFactura">
+<summary>
+NFactura control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.EliminarFacturas._TBNFactura">
+<summary>
+TBNFactura control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.EliminarFacturas._LblEliminarFactura">
+<summary>
+LblEliminarFactura control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.EliminarFacturas._Eliminar">
+<summary>
+Eliminar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.EliminarFacturas._Retornar">
+<summary>
+Retornar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._Panel1">
+<summary>
+Panel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._TBFecha">
+<summary>
+TBFecha control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._LblFecha">
+<summary>
+LblFecha control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._TBNFactura">
+<summary>
+TBNFactura control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._LblFactura">
+<summary>
+LblFactura control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._Label2">
+<summary>
+Label2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._TBNombreCliente">
+<summary>
+TBNombreCliente control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._LblCliente">
+<summary>
+LblCliente control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._TBNIT">
+<summary>
+TBNIT control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._LblNIT">
+<summary>
+LblNIT control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._LbProducto">
+<summary>
+LbProducto control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._DLPRODUCTO">
+<summary>
+DLPRODUCTO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._PRODUCTO">
+<summary>
+PRODUCTO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._LblCarntidad">
+<summary>
+LblCarntidad control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._TBCantidad">
+<summary>
+TBCantidad control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._Agregar">
+<summary>
+Agregar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._GridProductos">
+<summary>
+GridProductos control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._Guardar">
+<summary>
+Guardar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._Anular">
+<summary>
+Anular control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._Eliminar">
+<summary>
+Eliminar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._Buscar">
+<summary>
+Buscar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._Limpiar">
+<summary>
+Limpiar control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.RegistroFacturas._LblResultado">
+<summary>
+LblResultado control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.SiteMaster._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.Site_Mobile._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.Site_Mobile._HeadContent">
+<summary>
+HeadContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.Site_Mobile._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.Site_Mobile._FeaturedContent">
+<summary>
+FeaturedContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.Site_Mobile._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:RegistroFacturas.Site_Mobile._ViewSwitcher1">
+<summary>
+ViewSwitcher1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

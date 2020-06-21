@@ -1,0 +1,13 @@
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\bin\Debug\DAL.dll
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\bin\Debug\DAL.pdb
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\bin\Debug\DAL.xml
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\bin\Debug\LayerEntity.dll
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\bin\Debug\LayerEntity.pdb
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\bin\Debug\LayerEntity.xml
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\obj\Debug\DAL.Resources.resources
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\obj\Debug\DAL.vbproj.CopyComplete
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\obj\Debug\DAL.dll
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\obj\Debug\DAL.xml
+D:\repositorio\Usuario\VB\factura\Facturar\DAL\obj\Debug\DAL.pdb
